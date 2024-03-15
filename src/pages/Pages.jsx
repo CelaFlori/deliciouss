@@ -1,6 +1,6 @@
 import { Home } from "./Home";
 
-export const Page = () => {
+export const Pages = () => {
   return (
     <div>
       <Home />
