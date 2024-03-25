@@ -4,6 +4,7 @@ import {BrowserRouter, Link} from "react-router-dom";
 import {Search} from "./components/Search.jsx";
 import styled from "styled-components";
 import { GiKnifeFork } from "react-icons/gi";
+import {useEffect} from "react";
 
 
 function App() {
